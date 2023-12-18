@@ -38,9 +38,7 @@ public class D4Q1 {
       }
       ans += points;
     }
-    while (sc.hasNextLine()) {
-
-    }
+   i 
     System.out.println(ans);
     sc.close();
   }
